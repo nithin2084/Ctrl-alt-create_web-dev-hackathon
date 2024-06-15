@@ -1,4 +1,6 @@
 # Ctrl+Alt+Create: EV Web Dev Hackathon
+## here is the hoisted website : 
+https://main--jocular-cobbler-42dc35.netlify.app/
  ### Theme: Electric Vehicles (EVs)
 ### Color Scheme: White and Green (Basic). Other colors may be added.
 ### This hackathon has a time limit of 1 hour, divided into 4 rounds(No usage of AI tools during the hackathon):
