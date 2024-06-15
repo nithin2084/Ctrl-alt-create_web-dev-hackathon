@@ -1,5 +1,5 @@
 # Ctrl+Alt+Create: EV Web Dev Hackathon
-## here is the hoisted website : 
+### here is the hoisted website : 
 https://main--jocular-cobbler-42dc35.netlify.app/
  ### Theme: Electric Vehicles (EVs)
 ### Color Scheme: White and Green (Basic). Other colors may be added.
